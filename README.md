@@ -1,6 +1,6 @@
 ### 박연우, Park Yeon Woo 💛
-![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=Park%20YeonWoo&fontSize=90)
-
+![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=Park%20YeonWoo&fontSize=50)
+![header](https://capsule-render.vercel.app/api?color=A3DCBE)
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=nyunu)](https://github.com/anuraghazra/github-readme-stats)
 
