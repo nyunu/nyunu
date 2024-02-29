@@ -9,5 +9,10 @@
 <img src="https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=Jupyter&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Google Colab-F9AB00?style=flat-square&logo=Google Colab&logoColor=white"/></a>
 
+**✅ solved.ac**
+
+[![Solved.ac
+프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=nyunu11)](https://solved.ac/nyunu11)
+
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=nyunu)](https://github.com/anuraghazra/github-readme-stats)
