@@ -12,6 +12,3 @@
 
 [![Solved.ac
 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=nyunu11)](https://solved.ac/nyunu11)
-
-
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=nyunu)](https://github.com/anuraghazra/github-readme-stats)
