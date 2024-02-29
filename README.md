@@ -1,6 +1,6 @@
 <div align="center">
   <header>
-    <img src="https://capsule-render.vercel.app/api?type=waving&color=FFEBCD&height=300&section=header&text=Park%20Yeonwoo&fontSize=70&fontColor=ffffff"/>
+    <img src="https://capsule-render.vercel.app/api?type=waving&color=6A5ACD&height=300&section=header&text=Park%20Yeonwoo&fontSize=70&fontColor=ffffff"/>
   </header>
   
   <h3>✅ Tech Stack</h3>
