@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=FFB6C1&text=%20Park%20YeonWoo%20&height=200&fontSize=70&fontColor=ffffff)
+![header](https://capsule-render.vercel.app/api?type=waving&color=f2e68c&text=%20Park%20YeonWoo%20&height=200&fontSize=70&fontColor=ffffff)
 
 **✅ Tech Stack** <br>
 
