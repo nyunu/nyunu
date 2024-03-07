@@ -33,6 +33,7 @@
     FSI Data Challenge | 금융보안원 | 삼성카드대표이사상 | 2023.10.30 <br>
     제 2회 한국관광 데이터랩 우수 활용사례 공모전 | 한국관광공사 | 자유주제 부문 우수상 | 2022.11.21 <br>
     빅리더 AI 아카데미 프로젝트 | 한국관광공사 | 표창장 | 2022.10.30 <br>
+    <br>
     ++ 
     2021 청년의 날 치어리딩 페스티벌 | 청년과 미래 | 우수상 | 2021.11.06 <br>
     2021 서울시 청소년 어울림마당 동아리 경연대회 본상 | 서울특별시 | 2021.11.21 <br>
@@ -46,4 +47,5 @@
 
   <h3>✅ Baek Joon</h3>
      <br>
-    [![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=nyunu11)](https://solved.ac/nyunu11)
+
+[![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=nyunu11)](https://solved.ac/nyunu11)
