@@ -11,6 +11,7 @@
     <img src="https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=Jupyter&logoColor=white"/></a>
     <img src="https://img.shields.io/badge/Google Colab-F9AB00?style=flat-square&logo=Google Colab&logoColor=white"/></a>
     <img src="https://img.shields.io/badge/Tableau-E97627?style=flat-square&logo=Tableau&logoColor=white"/></a>
+<br>
 
   <h3>✅ Activities</h3>
   <div style="text-align: left;">
@@ -18,14 +19,17 @@
     한국지방세연구원 | 인턴 근무 | 2023.07 ~ 2023.12 <br>
     DACOS | 데이터 분석 학회 공모전팀 | 2023.03 ~ 2024.02 <br>
     SOOK-TAT | 데이터 분석 학회 | 2021.07 ~ 2022.07 <br>
+<br>
 
   <h3>✅ Education</h3>
   <div style="text-align: left;">
     데이터청년캠퍼스 | 한국데이터산업진흥원 | 2022.06 ~ 2022.08
+<br>
 
   <h3>✅ Intern</h3>
   <div style="text-align: left;">
     한국지방세연구원 | 2023.07 ~ 2023.12
+<br>
     
   <h3>✅ Awrards</h3>
   <div style="text-align: left;">
@@ -33,11 +37,11 @@
     FSI Data Challenge | 금융보안원 | 삼성카드대표이사상 | 2023.10.30 <br>
     제 2회 한국관광 데이터랩 우수 활용사례 공모전 | 한국관광공사 | 자유주제 부문 우수상 | 2022.11.21 <br>
     빅리더 AI 아카데미 프로젝트 | 한국관광공사 | 표창장 | 2022.10.30 <br>
-    <br>
     ++ <br>
     2021 청년의 날 치어리딩 페스티벌 | 청년과 미래 | 우수상 | 2021.11.06 <br>
     2021 서울시 청소년 어울림마당 동아리 경연대회 본상 | 서울특별시 | 2021.11.21 <br>
     2022 청년의 날 치어리딩 페스티벌 | 청년과 미래 | 최우수상 (국회의원상) | 2022.09.17 <br>
+<br>
 
   <h3>✅ Certificate</h3>
   <div style="text-align: left;">
@@ -46,6 +50,5 @@
     빅데이터 분석기사 | 한국데이터산업진흥원 <br>
 
   <h3>✅ Baek Joon</h3>
-     <br>
 
 [![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=nyunu11)](https://solved.ac/nyunu11)
