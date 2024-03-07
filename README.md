@@ -13,7 +13,7 @@
 <br><br>
 
   <h3>✅ Activities</h3>
-  <div style="text-align: left;">
+  <p style="text-align:left">
     대웅제약 | 디지털헬스 장학 프로젝트 | 2023.12 ~ <br>
     한국지방세연구원 | 인턴 근무 | 2023.07 ~ 2023.12 <br>
     DACOS | 데이터 분석 학회 공모전팀 | 2023.03 ~ 2024.02 <br>
