@@ -2,7 +2,7 @@
   <header>
     <img src="https://capsule-render.vercel.app/api?type=waving&color=6A5ACD&height=300&section=header&text=Park%20Yeonwoo&fontSize=70&fontColor=ffffff"/>
   </header>
-  
+  <br><br>
   <h3>✅ Tech Stack</h3>
     <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a>
     <img src="https://img.shields.io/badge/R-276DC3?style=flat-square&logo=R&logoColor=white"/></a>
