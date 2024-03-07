@@ -1,10 +1,7 @@
 <div align="center">
   <header>
     <img src="https://capsule-render.vercel.app/api?type=waving&color=6A5ACD&height=300&section=header&text=Park%20Yeonwoo&fontSize=70&fontColor=ffffff"/>
-  </header>
-  
-  <br><br>
-  
+  </header> 
   <h3>✅ Tech Stack</h3>
     <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a>
     <img src="https://img.shields.io/badge/R-276DC3?style=flat-square&logo=R&logoColor=white"/></a>
@@ -13,7 +10,7 @@
     <img src="https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=Jupyter&logoColor=white"/></a>
     <img src="https://img.shields.io/badge/Google Colab-F9AB00?style=flat-square&logo=Google Colab&logoColor=white"/></a>
     <img src="https://img.shields.io/badge/Tableau-E97627?style=flat-square&logo=Tableau&logoColor=white"/></a>
-<br>
+<br><br>
 
   <h3>✅ Activities</h3>
   <div style="text-align: left;">
