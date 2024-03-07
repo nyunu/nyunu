@@ -37,9 +37,9 @@
 
   <h3>✅ Certificate</h3>
   <div style="text-align: left;">
-    ADSP (데이터분석 준전문가)** | 한국데이터산업진흥원 <br>
-    SQLD (SQL 개발자)** | 한국데이터산업진흥원 <br>
-    빅데이터 분석기사** | 한국데이터산업진흥원 <br><br>
+    ADSP (데이터분석 준전문가) | 한국데이터산업진흥원 <br>
+    SQLD (SQL 개발자) | 한국데이터산업진흥원 <br>
+    빅데이터 분석기사 | 한국데이터산업진흥원 <br><br>
 
   <h3>✅ Baek Joon</h3>
 
